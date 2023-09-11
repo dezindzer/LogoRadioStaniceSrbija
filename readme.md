@@ -14,5 +14,5 @@ Redovno se dopunjavaju i update-uju slike
 
 > Ako je neko zainteresovan da doprinese uređivanju ovih slika neka se javi 😆
 
-# Napomena:
+### Napomena:
 - Trenutno se još uvek radi na slikama, tako da je većina sa belom pozadinom, ali će se to blagovremeno promeniti 🙈 
