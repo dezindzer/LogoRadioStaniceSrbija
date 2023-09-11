@@ -6,6 +6,7 @@
 
 
 ## Uputstvo za editovanje:
+- [ ] Nazivi fajlova su koncipirani tako da se radio stanica zove samo imenom (bez reči "radio") a zatim ide crtica, pa grad i onda frekvencija, npr: *Biser Plus - Malo Crniće 92.6*
 - [ ] Format slika treba da bude transparentni PNG, 
 - [ ] Dimenzija slike 160x120 (ili više u toj razmeri, odnosno 1.33333333333/1; npr: 200x150, 180x135 itd.)
 - [ ] ako je neki logo dugačak, npr kao što je logo _Radio Beograd 1_ bilo bi dobro smestiti ga u gore navedeni format.
